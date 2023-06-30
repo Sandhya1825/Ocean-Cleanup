@@ -1,0 +1,63 @@
+﻿Columns,Type of Waste,,,,,,,,,,,
+ID,,,,,,,,,,,,
+Zone,,,,,,,,,,,,
+State,,,,,,,,,,,,
+Country,,,Plastics,,,,,,,,,
+GPS_Lat ,,,Take Out/Away Containers (Plastic),,,,,,,,,
+GPS_Long,,,Bottle Caps (Plastic),,,,,,,,12300000,Plastic
+Cleanup Type,,,Lids (Plastic),,,,,,,,360000,Cigar
+Cleanup Date,,,"Straws, Stirrers",,,,,,,,137440,construction
+Group Name,,,Beverage Bottles (Plastic),,,,,,,,99049,metal
+Adults,,,Grocery Bags (Plastic),,,,,,,,91875,glass
+Children,,,Other Plastic Bags,,,,,,,,66780,Bio
+People,,,"Cups, Plates (Plastic)",,,,,,,,47080,fireworks
+Pounds,,,Other Plastic/Foam Packaging,,,,,,,,38100,tires
+Miles,,,"Other Plastic Bottles (oil, bleach, etc.)",,,,,,,,35247,others
+# of bags,,,,,,,,,,,34610,fishing
+Cigarette Butts,Cigarette,,,,,,,,,,21712,paper
+"Food Wrappers (candy, chips, etc.)",Plastic,,,,,,,,,,6940,Appliances
+Take Out/Away Containers (Plastic),Plastic,,,,,,,,,,,
+Take Out/Away Containers (Foam),Plastic,,,,,,,,,,,
+Bottle Caps (Plastic),Plastic,,,,,,,,,,,
+Bottle Caps (Metal),Metal,,,,,,,,,,,
+Lids (Plastic),Plastic,,,,,,,,,,,
+"Straws, Stirrers",Plastic,,,,,,,,,,,
+"Forks, Knives, Spoons",Metal,,,,,,,,,,,
+Beverage Bottles (Plastic),Plastic,,,,,,,,,,,
+Beverage Bottles (Glass),Glass,,,,,,,,,,,
+Beverage Cans,Metal,,,,,,,,,,,
+Grocery Bags (Plastic),Plastic,,,,,,,,,,,
+Other Plastic Bags,Plastic,,,,,,,,,,,
+Paper Bags,Paper,,,,,,,,,,,
+"Cups, Plates (Paper)",Paper,,,,,,,,,,,
+"Cups, Plates (Plastic)",Plastic,,,,,,,,,,,
+"Cups, Plates (Foam)",Plastic,,,,,,,,,,,
+"Fishing Buoys, Pots & Traps",Fishing,,,,,,,,,,,
+Fishing Net & Pieces,Fishing,,,,,,,,,,,
+Fishing Line (1 yard/meter = 1 piece),Fishing,,,,,,,,,,,
+Rope (1 yard/meter = 1 piece),Fishing,,,,,,,,,,,
+Fishing Gear (Clean Swell),Fishing,,,,,,,,,,,
+6-Pack Holders,Plastic,,,,,,,,,,,
+Other Plastic/Foam Packaging,Plastic,,,,,,,,,,,
+"Other Plastic Bottles (oil, bleach, etc.)",Plastic,,,,,,,,,,,
+Strapping Bands,Plastic,,,,,,,,,,,
+Tobacco Packaging/Wrap,cigarette,,,,,,,,,,,
+Other Packaging (Clean Swell),Plastic,,,,,,,,,,,
+"Appliances (refrigerators, washers, etc.)",Appliances,,,,,,,,,,,
+Balloons,Plastic,,,,,,,,,,,
+Cigar Tips,Cigarettes,,,,,,,,,,,
+Cigarette Lighters,Cigarettes,,,,,,,,,,,
+Construction Materials,Construction Materials,,,,,,,,,,,
+Fireworks,Fireworks,,,,,,,,,,,
+Tires,Tires,,,,,,,,,,,
+Toys,Plastic,,,,,,,,,,,
+Other Trash (Clean Swell),Others,,,,,,,,,,,
+Condoms,Bio waste,,,,,,,,,,,
+Diapers,Bio waste,,,,,,,,,,,
+Syringes,Bio medical waste,,,,,,,,,,,
+Tampons/Tampon Applicators,Bio waste,,,,,,,,,,,
+Personal Hygiene (Clean Swell),Plastic,,,,,,,,,,,
+Foam Pieces,Plastic,,,,,,,,,,,
+Glass Pieces,Glass,,,,,,,,,,,
+Plastic Pieces,Plastic,,,,,,,,,,,
+Total Items Collected,,,,,,,,,,,,
